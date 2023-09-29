@@ -1,0 +1,175 @@
+#parent{
+    height: 750px;
+    width: 1500px;
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.772);
+}
+.d1{
+    background-color: rgba(255, 255, 255, 0);
+    height: 650px;
+    width: 1450px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    align-items: end;
+    
+}
+#im1{
+    height: 60%;
+    width: 80%;
+    border-radius: 30px;
+    
+    
+}
+.d2{
+    height: 650px;
+    width: 270px;
+    border-radius: 30px;
+    background-color: rgba(12, 132, 237, 0);
+    position: absolute;
+    left:30px;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: gold;
+    line-height: 4;
+    margin-top: -30px;
+}
+h2{
+    margin-left: 30px;
+    font-size: large;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(190, 188, 188);
+    line-height: 5;
+}
+span{
+    color: rgb(190, 188, 188);
+}
+i{
+    color: rgb(190, 188, 188);
+}
+.imd{
+    height: 230px;
+    width: 150px;
+
+    
+    position: absolute;
+    
+}
+.imd-1{
+    right: 1040px;
+    top: 463px;
+   
+}
+.imd-2{
+    right: 870px;
+    top: 463px;
+
+}
+.imd-3{
+    right: 700px;
+    top: 463px;
+
+}
+.imd-4{
+    right: 530px;
+    top: 463px;
+}
+
+.imd-5{
+    right: 360px;
+    top: 463px;  
+
+}
+.imd-6{
+    right: 190px;
+    top: 463px;
+}
+
+
+
+#i1{
+    height: 100%;
+    width: 100%;
+}
+#i2{
+    height: 100%;
+    width: 100%;
+}
+#i3{
+    height: 100%;
+    width: 100%;
+}
+#i4{
+    height: 100%;
+    width: 100%;
+}
+#i5{
+    height: 100%;
+    width: 100%;
+}
+#i6{
+    height: 100%;
+    width: 100%;
+}
+.shw{
+    position: absolute;
+    top: 540px;
+    right: 70px;
+    font-size: large;
+    
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#shw1{
+    text-decoration: underline;
+    color: rgb(190, 188, 188) ;
+    
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0) ;
+    font-weight: bold;
+}
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    
+    position: absolute;
+    right: 1020px;
+    top: 400px;
+}
+
+.rate{
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
